@@ -1,1 +1,1 @@
-# qa-auto
+# qa-autocommit 1
